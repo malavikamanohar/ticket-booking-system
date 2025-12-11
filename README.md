@@ -52,6 +52,8 @@ A complete full-stack ticket booking system built with Node.js, Express.js, Post
 - PostgreSQL (v12 or higher)
 - npm or yarn
 
+**For doing this project first download the zip file and extract all**
+
 ### Backend Setup
 
 1. Navigate to backend directory:
